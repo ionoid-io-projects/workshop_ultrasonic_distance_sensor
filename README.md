@@ -41,6 +41,10 @@ chmod +x udistance
 ./udistance
 ```
 
+## How to stop the program
+To quit or stop the program click on **Ctrl+C**
+
+
 Congratulation.
 
 ## For explanation
