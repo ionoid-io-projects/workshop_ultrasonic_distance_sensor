@@ -1,0 +1,5 @@
+name: udistance-env
+version: 1.0
+apps:
+    led-blink:
+        command:    /bin/udistance
