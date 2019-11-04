@@ -6,6 +6,8 @@ Mesure distance
 Follow link below for pin connections 
 [https://projects.raspberrypi.org/en/projects/physical-computing/14](https://projects.raspberrypi.org/en/projects/physical-computing/14)
 
+![wiring](doc/img/gpio.png)
+
 # Code
 
 ## 1- Power your raspberry
