@@ -19,7 +19,7 @@ You can achive it with connecting it to your pc trought the Micro USB Port of th
 ## 2- Connect to your raspberry pi
 Using putty if you're on windows, Ssh if you're on a linux based os
 Follow the following instruction if you dont know how to connect to raspberry pi
-[Connect to raspberry pi using Putty](https://github.com/ionoid-io-projects/workshop/blob/master/doc/od-iot-raspbian-rpi-zero-windows.md#5-first-boot)
+[Connect to Raspberry Pi using Putty](https://github.com/ionoid-io-projects/workshop/blob/master/doc/od-iot-raspbian-rpi-zero-windows.md#5-first-boot)
 
 ## 3- Download the binary file
 
