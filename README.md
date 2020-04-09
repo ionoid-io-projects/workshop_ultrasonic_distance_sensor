@@ -1,4 +1,31 @@
 # Introduction
+
+
+Material needed:
+
+1) [Raspberry Pi 3 or Raspberry Pi Zero WiFi](https://www.raspberrypi.org/products/raspberry-pi-zero-w/)
+
+
+2) [HC-SR04 Ultrasonic distance
+sensor](https://www.amazon.fr/gp/product/B06XSJPVW9/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=liens_hc_sr04-21&creative=6746&linkCode=as2&creativeASIN=B06XSJPVW9&linkId=1afc7a8494e21c3b883cd0b08620fb09)
+
+![HC-SR04](img/HC-SR04.png)
+
+
+
+3) [1KΩ et 2KΩ
+Resistors](https://www.amazon.fr/gp/product/B071LHFQKD/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=liens_hc_sr04-21&creative=6746&linkCode=as2&creativeASIN=B071LHFQKD&linkId=213100c4a53af021f1e4201c62fc61d2)
+
+4)
+[Cables](https://www.amazon.fr/gp/product/B01JD5WCG2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=liens_hc_sr04-21&creative=6746&linkCode=as2&creativeASIN=B01JD5WCG2&linkId=80fd9f40f891574b5404556a03de1b47)
+
+5) [Power
+supply](https://www.amazon.com/s?k=Raspberry+Pi+Power+Supply&language=en_US&linkCode=ll2&linkId=7dc5f7ea56c88b3efd0c35316b16e38e&tag=pimylifeup-20&ref=as_li_ss_tl)
+
+
+
+The design
+
 Mesure distance 
 
 ![wiring](doc/img/wiring-uds.png)
